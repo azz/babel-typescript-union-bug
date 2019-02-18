@@ -1,0 +1,6 @@
+{
+  "plugins": [
+    "@babel/plugin-transform-spread"
+  ],
+  "presets": ["@babel/preset-typescript"]
+}
